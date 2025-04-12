@@ -3,16 +3,16 @@ const chalk = require('chalk')
 
 
 //contact details
-global.ownernomer = "2348109263390"
-global.ownername = "ElitePro"
-global.ytname = "YT: @ElitePro-Empire"
+global.ownernomer = "923019568303"
+global.ownername = "Faizii"
+global.ytname = "YT: No"
 global.socialm = "GitHub: Elite-MD"
 global.location = "Nigeria, Port Harcourt"
 
 
-global.ownernumber = '2348109263390'  //creator number
-global.ownername = 'ElitePro' //owner name
-global.botname = 'ELITE-PRO-V1' //name of the bot
+global.ownernumber = '923019568303'  //creator number
+global.ownername = 'Faizii' //owner name
+global.botname = 'Malik-PRO-V1' //name of the bot
 
 
 //custom prefix
